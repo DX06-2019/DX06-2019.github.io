@@ -1,7 +1,7 @@
 {
-  "main.css": "/DX06/static/css/main.988c8dca.chunk.css",
-  "main.js": "/DX06/static/js/main.cf24e8ee.chunk.js",
-  "main.js.map": "/DX06/static/js/main.cf24e8ee.chunk.js.map",
+  "main.css": "/DX06/static/css/main.58f9675a.chunk.css",
+  "main.js": "/DX06/static/js/main.a82b714b.chunk.js",
+  "main.js.map": "/DX06/static/js/main.a82b714b.chunk.js.map",
   "static/css/1.e10ee07c.chunk.css": "/DX06/static/css/1.e10ee07c.chunk.css",
   "static/js/1.c9b14fdf.chunk.js": "/DX06/static/js/1.c9b14fdf.chunk.js",
   "static/js/1.c9b14fdf.chunk.js.map": "/DX06/static/js/1.c9b14fdf.chunk.js.map",
@@ -11,9 +11,9 @@
   "static/media/mdb-react.png": "/DX06/static/media/mdb-react.d3e3273c.png",
   "static/media/all.min.css": "/DX06/static/media/fa-solid-900.c8ea4c79.svg",
   "static/media/img-1.jpg": "/DX06/static/media/img-1.8f030e49.jpg",
+  "static/css/main.58f9675a.chunk.css.map": "/DX06/static/css/main.58f9675a.chunk.css.map",
   "static/css/1.e10ee07c.chunk.css.map": "/DX06/static/css/1.e10ee07c.chunk.css.map",
-  "static/css/main.988c8dca.chunk.css.map": "/DX06/static/css/main.988c8dca.chunk.css.map",
   "index.html": "/DX06/index.html",
-  "precache-manifest.e0a4202c082e229af76fc04d6fd9f276.js": "/DX06/precache-manifest.e0a4202c082e229af76fc04d6fd9f276.js",
+  "precache-manifest.525ac8cd84edf8e2ef69c2c5aabe9e3c.js": "/DX06/precache-manifest.525ac8cd84edf8e2ef69c2c5aabe9e3c.js",
   "service-worker.js": "/DX06/service-worker.js"
 }
