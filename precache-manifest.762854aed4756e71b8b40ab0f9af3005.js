@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/DX06/static/media/fa-solid-900.9c73abbd.woff"
   },
   {
-    "revision": "3186ebd2918491445ea391a4f74e8dd7",
-    "url": "/DX06/static/media/fa-brands-400.3186ebd2.eot"
-  },
-  {
     "revision": "a995bae1d3cba3bdcf24071bf09b51c8",
     "url": "/DX06/static/media/fa-brands-400.a995bae1.ttf"
+  },
+  {
+    "revision": "3186ebd2918491445ea391a4f74e8dd7",
+    "url": "/DX06/static/media/fa-brands-400.3186ebd2.eot"
   },
   {
     "revision": "304f31f4585cf09768f9d4d69574d2d6",
@@ -128,20 +128,20 @@ self.__precacheManifest = [
     "url": "/DX06/static/media/Roboto-Regular.2751ee43.woff2"
   },
   {
-    "revision": "39b2c3031be6b4ea96e2e3e95d307814",
-    "url": "/DX06/static/media/Roboto-Bold.39b2c303.woff2"
-  },
-  {
     "revision": "574fd0b50367f886d359e8264938fc37",
     "url": "/DX06/static/media/Roboto-Medium.574fd0b5.woff2"
   },
   {
-    "revision": "7500519de3d82e33d1587f8042e2afcb",
-    "url": "/DX06/static/media/Roboto-Thin.7500519d.woff"
+    "revision": "39b2c3031be6b4ea96e2e3e95d307814",
+    "url": "/DX06/static/media/Roboto-Bold.39b2c303.woff2"
   },
   {
     "revision": "3b813c2ae0d04909a33a18d792912ee7",
     "url": "/DX06/static/media/Roboto-Light.3b813c2a.woff"
+  },
+  {
+    "revision": "7500519de3d82e33d1587f8042e2afcb",
+    "url": "/DX06/static/media/Roboto-Thin.7500519d.woff"
   },
   {
     "revision": "ba3dcd8903e3d0af5de7792777f8ae0d",
@@ -160,16 +160,16 @@ self.__precacheManifest = [
     "url": "/DX06/static/media/Roboto-Thin.94998475.ttf"
   },
   {
-    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
-    "url": "/DX06/static/media/Roboto-Medium.894a2ede.ttf"
-  },
-  {
     "revision": "46e48ce0628835f68a7369d0254e4283",
     "url": "/DX06/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
     "revision": "df7b648ce5356ea1ebce435b3459fd60",
     "url": "/DX06/static/media/Roboto-Regular.df7b648c.ttf"
+  },
+  {
+    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
+    "url": "/DX06/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
     "revision": "c9b14fdffeceb05a4f48",
