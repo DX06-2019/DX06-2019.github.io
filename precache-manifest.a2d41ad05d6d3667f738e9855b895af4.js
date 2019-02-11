@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/DX06/static/media/fa-solid-900.9c73abbd.woff"
   },
   {
-    "revision": "a995bae1d3cba3bdcf24071bf09b51c8",
-    "url": "/DX06/static/media/fa-brands-400.a995bae1.ttf"
-  },
-  {
     "revision": "3186ebd2918491445ea391a4f74e8dd7",
     "url": "/DX06/static/media/fa-brands-400.3186ebd2.eot"
+  },
+  {
+    "revision": "a995bae1d3cba3bdcf24071bf09b51c8",
+    "url": "/DX06/static/media/fa-brands-400.a995bae1.ttf"
   },
   {
     "revision": "304f31f4585cf09768f9d4d69574d2d6",
@@ -136,12 +136,12 @@ self.__precacheManifest = [
     "url": "/DX06/static/media/Roboto-Bold.39b2c303.woff2"
   },
   {
-    "revision": "3b813c2ae0d04909a33a18d792912ee7",
-    "url": "/DX06/static/media/Roboto-Light.3b813c2a.woff"
-  },
-  {
     "revision": "7500519de3d82e33d1587f8042e2afcb",
     "url": "/DX06/static/media/Roboto-Thin.7500519d.woff"
+  },
+  {
+    "revision": "3b813c2ae0d04909a33a18d792912ee7",
+    "url": "/DX06/static/media/Roboto-Light.3b813c2a.woff"
   },
   {
     "revision": "ba3dcd8903e3d0af5de7792777f8ae0d",
